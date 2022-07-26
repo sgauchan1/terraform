@@ -8,4 +8,3 @@ module "ec2_west2" {
   }
   source = "./modules/ec2"
 }
-
